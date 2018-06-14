@@ -3,18 +3,18 @@
 [//]: # (Image References)
 
 [image0]: ./examples/cover.jpg
-[image1]: ./examples/find_corners.png
-[image2]: ./examples/undistort_chessboard.png
-[image3-1]: ./examples/undistort_raw1.png
-[image3-2]: ./examples/undistort_raw2.png
-[image3-3]: ./examples/undistort_raw3.png
-[image3-4]: ./examples/undistort_raw4.png
-[image3-5]: ./examples/undistort_raw5.png
-[image3-6]: ./examples/undistort_raw6.png
-[image4]: ./examples/threshold.png
-[image5]: ./examples/warped_image.png
-[image6]: ./examples/fit_lines.png
-[image7]: ./examples/warp_back.png
+[image1]: ./output_images/find_corners.png
+[image2]: ./output_images/undistort_chessboard.png
+[image3-1]: ./output_images/undistort_raw1.png
+[image3-2]: ./output_images/undistort_raw2.png
+[image3-3]: ./output_images/undistort_raw3.png
+[image3-4]: ./output_images/undistort_raw4.png
+[image3-5]: ./output_images/undistort_raw5.png
+[image3-6]: ./output_images/undistort_raw6.png
+[image4]: ./output_images/threshold.png
+[image5]: ./output_images/warped_image.png
+[image6]: ./output_images/fit_lines.png
+[image7]: ./output_images/warp_back.png
 
 This is a brief writeup report of Self-Driving Car Engineer P4.
 
