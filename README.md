@@ -18,7 +18,7 @@
 
 This is a brief writeup report of Self-Driving Car Engineer P4.
 
-<img src="./examples/cover.png" width="50%" height="50%" />
+<img src="./examples/cover.jpg" width="50%" height="50%" />
 
 ---
 
