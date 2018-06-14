@@ -2,10 +2,15 @@
 
 [//]: # (Image References)
 
-[image0]: ./examples/cover.png
+[image0]: ./examples/cover.jpg
 [image1]: ./examples/find_corners.png
 [image2]: ./examples/undistort_chessboard.png
-[image3]: ./examples/undistort_raw.png
+[image3-1]: ./examples/undistort_raw1.png
+[image3-2]: ./examples/undistort_raw2.png
+[image3-3]: ./examples/undistort_raw3.png
+[image3-4]: ./examples/undistort_raw4.png
+[image3-5]: ./examples/undistort_raw5.png
+[image3-6]: ./examples/undistort_raw6.png
 [image4]: ./examples/threshold.png
 [image5]: ./examples/warped_image.png
 [image6]: ./examples/fit_lines.png
@@ -60,7 +65,12 @@ The code for this step is contained in the 2nd to 5th code cells of the IPython 
 
 All the test images in '/test_images/' applied the distortion correction are like this:
 
-![alt text][image3]
+![alt text][image3-1]
+![alt text][image3-2]
+![alt text][image3-3]
+![alt text][image3-4]
+![alt text][image3-5]
+![alt text][image3-6]
 
 #### 2. Create a thresholded binary image
 
